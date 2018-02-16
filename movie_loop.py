@@ -8,3 +8,7 @@ for film in movies:
   print "A great 90's movie:", film
 else:
   print "I miss the 90's"
+
+def movie_print(movies):
+    for movie in movies:
+        print movie
