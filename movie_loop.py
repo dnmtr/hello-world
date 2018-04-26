@@ -8,5 +8,3 @@ for film in movies:
   print "A great 90's movie:", film
 else:
   print "I miss the 90's"
-
-# Adding new line
